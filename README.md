@@ -10,19 +10,19 @@ A position article (not a review) engaging Thomasson's *Ontology Made Easy* (OUP
 
 ## Thesis
 
-Three moves. First, the SFL dependency is dispensable: the deflationary results ride on easy ontology plus framework-neutral functional facts. Second, Thomasson engages natural kinds mainly on the Kripke-Putnam essentialist axis; the realist-but-anti-essentialist projectibility tradition (Goodman, Dupré, Boyd, Khalidi, Magnus, Slater) is largely outside her target. Third, a field-relative, projectibility-first account delivers the function-first payoff while adding support grades, demotion conditions, and field discipline.
+Three moves. First, the SFL dependency is dispensable: the deflationary results ride on easy ontology plus framework-neutral functional facts. Second, Thomasson engages natural kinds mainly on the Kripke-Putnam essentialist axis; the realist-but-anti-essentialist projectibility tradition (Goodman, Dupré, Boyd, Khalidi, Magnus, Slater) is largely outside her target. Third, a field-relative, projectibility-first account delivers the function-first payoff while adding graded support, failure conditions, demotion rules, and field discipline.
 
 ## The convergence to state honestly
 
-Thomasson's function-first move is, structurally, Brett's field-relativity: a kind earns standing within a field's projective economy; no field-neutral pre-given object settles category choice in advance. The article grants this nearly-complete agreement and locates the residual difference precisely: whether falsifiable perturbation predictions buy more mind-independence than empirical-constraint-within-function.
+Thomasson's function-first move is close to Brett's field-relativity: a kind earns standing within a field's projective economy; no field-neutral pre-given object settles category choice in advance. The article grants this near agreement and locates the residual difference precisely: whether projectibility adds a demotion discipline that empirical-constraint-within-function hasn't yet absorbed.
 
 ## Relation to Piece 1
 
 Companion linguistics review: `../thomasson-sfl-review/`. Keep differentiated: review = book-anchored service plus the linguistic diagnosis; article = thesis-driven, advancing the positive program.
 
-## Venue candidates (run /venue-selection before deciding)
+## Circulation route
 
-*Inquiry*, *Synthese*, *Philosophical Studies*; a tighter critical note could go to *Analysis* or *Thought*.
+Current planned circulation is PhilPapers plus direct scholarly send to Thomasson. A later journal submission should get a fresh venue-specific check.
 
 ## Layout
 
