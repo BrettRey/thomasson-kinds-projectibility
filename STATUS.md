@@ -2,16 +2,19 @@
 
 ## Current state (2026-06-29)
 
-Scaffolded. House style and central bibliography wired by symlink. Strategic brief and grounded source findings captured in `notes/`. No prose drafted yet (design agreed; drafting is the next phase). Sequenced after Piece 1 (`../thomasson-sfl-review/`), which is timelier and seeds this one.
+Public-ready draft repository. The paper now has a source-backed five-page LaTeX draft, verified project-local bibliography entries, vendored central house-style/build files, and a CC BY 4.0 license. `make` succeeds with XeLaTeX/Biber.
+
+The argument has been updated after intake of Thomasson 2014, Thomasson 2020, Thomasson 2025, Dupré 1993, and Magnus 2012. The live framing is projectibility-first, not HPC-first: Thomasson is treated as a close ally whose account does not engage the anti-essentialist realist projectibility tradition.
 
 ## Next action
 
-When Piece 1 has a draft, open with Section 3 (the opponent she does not meet: Boyd/Khalidi absent) and Section 4 (the projectibility-first, field-relative alternative). The Khalidi/Boyd = 0 finding is the spine of Section 3.
+Develop the current draft into a full article. The next substantive expansion should strengthen Section 4 (the omitted anti-essentialist realist tradition) and Section 5 (projectibility profiles, support grades, and demotion conditions), using Brett's recent kinds papers as the internal framework.
 
 ## Blockers
 
-- Bibliographic entries for Thomasson (2025, 2020, 2015), and for the absent-opponent literature (Boyd, Khalidi, Dupre, Magnus, Slater) not yet in `references-local.bib`. Verify and add before citing.
-- Page numbers: libgen scan, line refs only. Confirm against a legitimate copy before quotation.
+- Update the acknowledgements if later drafts use additional models or tools.
+- Confirm absence claims against legitimate print indexes before submission.
+- Re-check direct quotations against the PDFs before finalizing; current page anchors are draft anchors.
 
 ## Decisions
 
@@ -19,5 +22,5 @@ See `DECISIONS.md`.
 
 ## Pending Brett
 
-- Confirm working title and whether this is a full article or a tighter critical note (affects venue and length).
-- Confirm public GitHub remote (currently held).
+- Confirm final working title and whether this should remain a full article or become a tighter critical note.
+- Select target venue after the draft has enough shape for venue matching.
