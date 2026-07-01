@@ -11,6 +11,10 @@
 *.fls
 *.synctex.gz
 main.pdf
+Reynolds-Thomasson-Kinds-Projectibility.pdf
+
+# Local correspondence drafts
+submission/email-to-*.md
 
 # macOS
 .DS_Store

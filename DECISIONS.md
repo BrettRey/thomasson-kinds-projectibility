@@ -31,3 +31,25 @@
 2026-06-30 -- Position the Boyd/HPC contrast through verified Lipski, Slater, and Martinez citations. Reason: the paper shouldn't imply that Boyd is merely mechanism-first; the novelty is field-indexed demotion, not projectibility by itself.
 
 2026-06-30 -- Current circulation route is PhilPapers plus direct scholarly send to Thomasson. Reason: Brett specified that route during the submission-checklist review; journal-specific checks are deferred.
+
+2026-06-30 -- Supersede the `race` divergence-case decision. Reason: the later review showed that `race` demonstrates convergence with Thomasson, since her account can already retain social/political functions while rejecting failed biological projection.
+
+2026-06-30 -- Recast Martinez 2017 as a grounding objection, or drop it. Reason: Martinez argues against Slater's groundless stable-property-cluster view, so it shouldn't be grouped with Slater and Lipski as pushing against grounding or mechanism constraints.
+
+2026-06-30 -- Treat `jade` as a candidate divergence case, not yet adopted. Reason: it cleanly separates lapidary/art-historical/market projections from mineralogical demotion, but it may be too worked an example and needs source-verified handling before replacing `race`.
+
+2026-06-30 -- Prefer `grammar-internal account of function` over `syntactic account of function` for the section 3 payoff sentence. Reason: the SFL issue concerns Hallidayan grammatical architecture, not syntax in a narrow CGEL sense.
+
+2026-06-30 -- Supersede the `jade` candidate route and use `definiteness` as the separating case. Reason: the standard cases (`fish`, `jade`, and `race`) converge or can be accommodated by Thomasson's conceptual-engineering framework; the live contrast needs a single field where coordination survives after the projection splits.
+
+2026-06-30 -- Keep `fish` as the worked cross-field foil, keep `jade` as a brief convergence/control case, and remove `weed` and the worked `platypus` example from section 5. Reason: too many familiar examples diluted the structural contrast and made the section read like throat-clearing before the actual demotion case.
+
+2026-06-30 -- Individuate fields epistemically rather than ontologically. Reason: the argument needs shared questions, admissible evidence, defeaters, and repair moves, not a metaphysically heavy account of field boundaries.
+
+2026-06-30 -- Block the reduction of projective success to successful conceptual functioning. Reason: a category can coordinate inquiry, teaching, records, and literature while failing the inference that gives it kind-standing for a fixed field and projection.
+
+2026-06-30 -- Acknowledge Claude Opus 4.8 as a source of review and revision ideas, while assigning responsibility for claims and errors to Brett. Reason: Opus review materially shaped the revision and should be visible without over-crediting theoretical authorship.
+
+2026-06-30 -- Recommended PhilPapers categories are Natural Kinds as primary, with Conceptual Engineering and Metaontology as secondary, and Scientific Practice as optional. Reason: the paper's target is natural-kind/projectibility realism, not philosophy of linguistics, even though the worked separating case is linguistic.
+
+2026-07-01 -- Treat PhilArchive REYFWF as the canonical public preprint link for this paper. Reason: the second Thomasson piece is now publicly posted and can be cited/shared as `https://philarchive.org/rec/REYFWF`, while journal submission remains a separate revision/venue-selection track.

@@ -2,7 +2,9 @@
 
 **Piece 2 of two** on Amie Thomasson's recent metaphysics, written for a **philosophy** audience.
 
-Working title: *Function-first without function-in-syntax: projectibility, field-relative kinds, and the limits of Thomasson's deflation*.
+Title: *Function-first without function-in-syntax: Projectibility, field-relative kinds, and the limits of Thomasson's deflation*.
+
+Public preprint: <https://philarchive.org/rec/REYFWF>.
 
 ## Purpose
 
@@ -22,7 +24,7 @@ Companion linguistics review: `../thomasson-sfl-review/`. Keep differentiated: r
 
 ## Circulation route
 
-Current planned circulation is PhilPapers plus direct scholarly send to Thomasson. A later journal submission should get a fresh venue-specific check.
+Current circulation is PhilArchive plus a planned direct scholarly send to Thomasson. A later journal submission should get a fresh venue-specific check.
 
 ## Layout
 
